@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="origin"
-           fetch=".."
+           fetch=".." />
   <default revision="master"
            remote="origin"
            sync-j="4" />
