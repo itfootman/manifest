@@ -8,7 +8,7 @@
   <project path="colors" name="itfootman/colors"/>
   <project path="environment" name="itfootman/environment">
     <linkfile src="install.sh" dest="install.sh" />
-  <project/>
+  </project>
   <project path="manuals" name="itfootman/manuals"/>
   <project path="bundle/a" name="itfootman/a"/>
   <project path="bundle/addon-mw-utils" name="itfootman/addon-mw-utils"/>
