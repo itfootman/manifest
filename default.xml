@@ -6,7 +6,7 @@
 
   <project path="autoload" name="itfootman/autoload"/>
   <project path="colors" name="itfootman/colors"/>
-  <project path="environment" name="itfootman/environment"
+  <project path="environment" name="itfootman/environment">
     <linkfile src="install.sh" dest="install.sh" />
   <project/>
   <project path="manuals" name="itfootman/manuals"/>
