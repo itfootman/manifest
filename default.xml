@@ -19,7 +19,7 @@
   <project path="bundle/code-complete" name="code-complete"/>
   <project path="bundle/colors-solarized" name="colors-solarized"/>
   <project path="bundle/command-t" name="command-t"/>
-  <project path="bundle/doxygen-toolkit" name="gdoxygen-toolkit"/>
+  <project path="bundle/doxygen-toolkit" name="doxygen-toolkit"/>
   <project path="bundle/loadproject" name="loadproject"/>
   <project path="bundle/man" name="man"/>
   <project path="bundle/neocomplcache" name="neocomplcache"/>
