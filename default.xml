@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="origin" fetch=".." />
+  <remote  name="origin" fetch="https://github.com/itfootman" />
   <default revision="master" remote="origin" sync-j="4" />
 
-  <project path="autoload" name="itfootman/autoload"/>
-  <project path="colors" name="itfootman/colors"/>
-  <project path="environment" name="itfootman/environment">
+  <project path="autoload" name="autoload"/>
+  <project path="colors" name="colors"/>
+  <project path="environment" name="environment">
     <linkfile src="install.sh" dest="install.sh" />
   </project>
-  <project path="manuals" name="itfootman/manuals"/>
-  <project path="bundle/a" name="itfootman/a"/>
-  <project path="bundle/addon-mw-utils" name="itfootman/addon-mw-utils"/>
-  <project path="bundle/autoclose" name="itfootman/autoclose"/>
-  <project path="bundle/autotag" name="itfootman/autotag"/>
-  <project path="bundle/bufexplorer" name="itfootman/bufexplorer"/>
-  <project path="bundle/c" name="itfootman/c"/>
-  <project path="bundle/code-complete" name="itfootman/code-complete"/>
-  <project path="bundle/colors-solarized" name="itfootman/colors-solarized"/>
-  <project path="bundle/command-t" name="itfootman/command-t"/>
-  <project path="bundle/doxygen-toolkit" name="itfootman/doxygen-toolkit"/>
-  <project path="bundle/loadproject" name="itfootman/loadproject"/>
-  <project path="bundle/man" name="itfootman/man"/>
-  <project path="bundle/neocomplcache" name="itfootman/neocomplcache"/>
-  <project path="bundle/nerdtree" name="itfootman/nerdtree"/>
-  <project path="bundle/python" name="itfootman/python"/>
-  <project path="bundle/snipmate" name="itfootman/snipmate"/>
-  <project path="bundle/snippets" name="itfootman/snippets"/>
-  <project path="bundle/tagbar" name="itfootman/tagbar"/>
-  <project path="bundle/tlib" name="itfootman/tlib"/>
-  <project path="bundle/vbookmark" name="itfootman/vbookmark"/>
-  <project path="bundle/visualmark" name="itfootman/visualmark"/>
-  <project path="bundle/winfileexplorer" name="itfootman/winfileexplorer"/>
-  <project path="bundle/winmanager" name="itfootman/winmanager"/>
-  <project path="bundle/wintagexplorer" name="itfootman/wintagexplorer"/>
-  <project path="bundle/youcompleteme" name="itfootman/youcompleteme"/>
+  <project path="manuals" name="gmanuals"/>
+  <project path="bundle/a" name="ga"/>
+  <project path="bundle/addon-mw-utils" name="gaddon-mw-utils"/>
+  <project path="bundle/autoclose" name="gautoclose"/>
+  <project path="bundle/autotag" name="gautotag"/>
+  <project path="bundle/bufexplorer" name="gbufexplorer"/>
+  <project path="bundle/c" name="gc"/>
+  <project path="bundle/code-complete" name="gcode-complete"/>
+  <project path="bundle/colors-solarized" name="gcolors-solarized"/>
+  <project path="bundle/command-t" name="gcommand-t"/>
+  <project path="bundle/doxygen-toolkit" name="gdoxygen-toolkit"/>
+  <project path="bundle/loadproject" name="gloadproject"/>
+  <project path="bundle/man" name="gman"/>
+  <project path="bundle/neocomplcache" name="gneocomplcache"/>
+  <project path="bundle/nerdtree" name="gnerdtree"/>
+  <project path="bundle/python" name="gpython"/>
+  <project path="bundle/snipmate" name="gsnipmate"/>
+  <project path="bundle/snippets" name="gsnippets"/>
+  <project path="bundle/tagbar" name="gtagbar"/>
+  <project path="bundle/tlib" name="gtlib"/>
+  <project path="bundle/vbookmark" name="gvbookmark"/>
+  <project path="bundle/visualmark" name="gvisualmark"/>
+  <project path="bundle/winfileexplorer" name="gwinfileexplorer"/>
+  <project path="bundle/winmanager" name="gwinmanager"/>
+  <project path="bundle/wintagexplorer" name="gwintagexplorer"/>
+  <project path="bundle/youcompleteme" name="gyoucompleteme"/>
 </manifest>
